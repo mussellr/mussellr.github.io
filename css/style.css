@@ -70,7 +70,9 @@ h1 {
 
 h2 {
     text-transform: uppercase;
-    font-size: ;
+    font-size: 3rem;
+    margin: 0;
+    letter-spacing: .25rem;
 }
 
 /* Image & Figure */
