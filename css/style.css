@@ -68,7 +68,10 @@ h1 {
 
 /* Section & Paragraph */
 
-
+h2 {
+    text-transform: uppercase;
+    font-size: ;
+}
 
 /* Image & Figure */
 
