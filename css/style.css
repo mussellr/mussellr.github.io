@@ -65,9 +65,6 @@ h1 {
     text-align:center;
 }
 
-
-
-
 h2 {
     text-transform: uppercase;
     font-size: 3rem;
@@ -80,8 +77,6 @@ h2 {
     font-weight: normal;
 
 }
-
-
 
 h3 {
     text-transform: uppercase;
@@ -126,10 +121,54 @@ h5 {
     font-weight: normal;
     text-align: center;
 }
+
 /* Section & Paragraph */
+
+section {
+    margin-top: .5rem;
+}
+
+p{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: 90%;
+    text-align: left;
+}
 
 /* Image & Figure */
 
+img {
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 50rem;
+}
+
+figure {
+    margin-bottom: 2rem;
+}
+
+figcaption {
+    padding-top: .5rem;
+    text-align: right;
+}
+
 /* Footer */
 
-
+footer {
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    border-top-color: #333;
+    border-top-style: solid;
+    border-top-width: 2rem;
+}
