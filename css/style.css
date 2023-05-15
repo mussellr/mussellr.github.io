@@ -78,24 +78,57 @@ header, footer {
 
 
 /* Imported Typfaces */
+@font-face {
+    font-family: ;
+    src: url();
+}
 
+@font-face {
+    font-family: ;
+    src: url();
+}
 
 
 
 
 /* Typography Styles */
+html {
+    font-family: josefinaslab, serif;
+    font-size: 1rem;
 
+}
 
+h1 {
 
+}
+h2 {
 
+}
+h2 + p {
 
+}
+li {
 
+}
+
+figcaption {
+
+}
 /* Link Styling */
 
+a {
 
+}
 
+a:link, 
+a:visited {
 
+}
 
+a:focus,
+a:hover {
+
+}
 
 /* List Styling */
 
