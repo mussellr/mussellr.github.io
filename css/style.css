@@ -109,14 +109,20 @@ h2 {
     letter-spacing: .125rem;
 }
 h2 + p {
-    font-size: ;
+    font-size: .75rem;
+    letter-spacing: .025rem;
+    word-spacing: .125rem;
+    text-indent: 1.5rem;
 }
 li {
-
+    font-size: .75rem;
+    letter-spacing: .025rem;
+    word-spacing: .125rem;
 }
 
 figcaption {
-
+    font-size: .75rem;
+    margin-bottom: 2rem;
 }
 /* Link Styling */
 
