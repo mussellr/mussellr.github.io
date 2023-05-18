@@ -155,10 +155,10 @@ ol {
     margin-bottom: 1rem;
     margin-left: 0;
     margin-right: 0;
-    list-style-type: ;
+    list-style-type: lower-alpha;
 }
  .long-lista:hover {
-    list-style-type: ;
+    list-style-type: upper-alpha;
  }
 
 /* Navigation Menu */
@@ -167,6 +167,28 @@ nav {
     padding: 0;
     margin-top: .5rem;
 }
+
+nav a {
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    line-height: 5;
+    text-align: center;
+    font-size: 1.25rem;
+    margin-bottom: 1.5rem;
+    border: solid;
+    border-width: .05rem;
+    border-color: #33658A;
+}
+
+nav a:focus,
+nav a:hover {
+    color: white;
+}
+
+
+
+
 
 
 
