@@ -127,28 +127,46 @@ figcaption {
 /* Link Styling */
 
 a {
-
+    outline:none;
 }
 
-a:link, 
+a:link,
 a:visited {
-
+    color: #33658A;
 }
 
 a:focus,
 a:hover {
-
+    text-decoration: none;
 }
 
 /* List Styling */
 
+ul {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0;
+    margin-right: 0;
+    list-style-type: square;
+}
 
-
-
-
+ol {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0;
+    margin-right: 0;
+    list-style-type: ;
+}
+ .long-lista:hover {
+    list-style-type: ;
+ }
 
 /* Navigation Menu */
 
+nav {
+    padding: 0;
+    margin-top: .5rem;
+}
 
 
 
