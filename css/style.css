@@ -131,3 +131,27 @@ h2 {
     word-spacing: .1rem;
     clear: both;
 }
+
+h3 {
+    font-family: roboto, sans-serif;
+    font-size: 1.25rem;
+    letter-spacing: .05rem;
+    word-spacing: .0525rem;
+}
+
+h4 {
+    font-family: ultra, serif;
+    font-size: 2.5rem;
+}
+
+.spans {
+    background-color: lightskyblue;
+    border-top-left-radius: 1.125rem;
+    border-bottom-right-radius: 1.125rem;
+    box-shadow: .25rem .25rem black;
+    padding: 1.125rem;
+}
+
+.spans a:link {
+    text-decoration: none;
+}
