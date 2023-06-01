@@ -155,3 +155,66 @@ h4 {
 .spans a:link {
     text-decoration: none;
 }
+
+main {
+    overflow: auto;
+    min-width: 50rem;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.main-selection {
+    overflow: auto;
+}
+
+.main-selection article {
+    float: left;
+    margin: 0 1.5%;
+    width: 60%;
+}
+
+.main-selection aside {
+    float: right;
+    width: 30%;
+    margin: 0 1.5%;
+    border-left: .125rem solid black;
+    padding-left: 2rem;
+}
+
+.gray   {
+    color: grey;
+    font-size: 1rem;
+}
+
+footer {
+    margin-top: 2rem;
+}
+
+.cc {
+    float: left;
+    width: 30%;
+    margin: 0 1.5%;
+}
+
+.cc2 {
+    float: right;
+    width: 70%;
+    margin: 0 1.5%;
+}
+
+.expand {
+    font-size: .125rem;
+}
+
+.expand a:link {
+    text-decoration: none;
+}
+
+time {
+    margin-top: 2rem;
+}
+
