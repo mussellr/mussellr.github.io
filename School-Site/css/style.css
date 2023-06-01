@@ -84,6 +84,7 @@ header, footer {
     font-weight: normal;
     font-style: normal; 
 }
+
 @font-face {
     font-family: montserrat;
     src: url(../fonts/montserrat-regular.ttf) format('truetype');
@@ -103,17 +104,20 @@ h1 {
     letter-spacing: .125rem;
     text-align: center;
 }
+
 h2 {
     font-family: josefinslab, serif;
     font-size: 1.5rem;
     letter-spacing: .125rem;
 }
+
 h2 + p {
     font-size: .75rem;
     letter-spacing: .025rem;
     word-spacing: .125rem;
     text-indent: 1.5rem;
 }
+
 li {
     font-size: .75rem;
     letter-spacing: .025rem;
