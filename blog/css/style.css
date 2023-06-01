@@ -276,10 +276,10 @@ nav {
 
 nav a:hover {
     background-color: orange;
-    transform: rotate(3deg);
+    transform: rotate(-3deg);
 }
 
 .nav-links li:nth-child(2) {
-    transform: rotate(3deg);
+    transform: rotate(-3deg);
     text-decoration: line-through;
 }
