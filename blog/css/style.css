@@ -107,7 +107,7 @@ h1 {
     letter-spacing: .0125rem;
     text-align: center;
     transform-origin: center;
-    transform: rotate(-10deg);
+    transform: rotate(5deg);
     margin: 5rem;
     font-weight: bold;
     text-shadow: .05rem .05rem black;
